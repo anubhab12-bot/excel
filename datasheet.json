@@ -1,0 +1,222 @@
+{
+    "overviews": [
+        {
+            "label": "Minimum Wage",
+            "content": "€9.36 an hour"
+        },
+        {
+            "label": "Working Hours",
+            "content": "<div>The legal working time is 8 hours per day, except for Sunday and statutory holidays.&nbsp;</div><div>The regular daily working time may be extended up to 10 hours a day, only if the mean of the daily working time in the following 6 months is 8 hours per day.</div>"
+        },
+        {
+            "label": "Social Security",
+            "content": "Social security contributions are split between Employee and Employer and typically amount to 40% of the employee’s gross earnings. It is mandatory to contribute earnings towards health insurance, long-term care (nursing care) insurance, unemployment and pension. A maximum ceiling for these contributions is fixed yearly and differs for health (capped at 48,600€) and pension/unemployment (capped at 71,400€)."
+        },
+        {
+            "label": "Health Insurance",
+            "content": "<p class=\"MsoNormal\" style=\"margin-bottom:0in;margin-bottom:.0001pt;text-align:\njustify\">(Gesetzliche Krankenversicherung)Employed persons making more than\n4,950.00€ monthly have the option of either remaining in the statutory health\ninsurance plan or taking out private insurance. If an employee moves to private\ninsurance, the employer will typically continue to pay half of the premium.<o:p></o:p></p>"
+        },
+        {
+            "label": "Sick Leave",
+            "content": "<div>Sick leave entitles an employee to 100% of their average income for up to 6 weeks from their employer.</div><div>After 6 weeks the health insurer pays 70% of the EE last salary and will cover sick leave up to a maximum of 18 months. After that time, health insurance pays 70% of the EE last salary until the EE either returns to work or has to retire because of health.</div><div>After 18 months of continued sickness social welfare will be paid.</div><div>To collect sick leave, the employee must have at least 4 weeks of service with the employer prior to falling ill.</div>"
+        },
+        {
+            "label": "Maternity Leave",
+            "content": "<div>Employees are entitled to maternity leave 6 weeks prior to the birth of the child until 8 weeks after the birth at full pay.</div><div>During maternity leave, the employee receives a maternity allowance paid from a health insurance fund and supplement provided by the employer aiming at coverage of EE´s current net salary.</div><div>If, per doctor’s orders, the pregnant employee must completely or partly cease working to avoid a risk to herself or the unborn child, the employer is obligated to partly/fully release her from work obligations.</div><div>In addition, the female employee will receive a maternity wage equaling her previous salary/wage.</div><div>Any EER costs are reimbursed by health insurance.</div><div>In the case of a multiple birth, 12 weeks paid leave is allowed.</div>"
+        },
+        {
+            "label": "Parental Allowance",
+            "content": "<div>Parental leave can be taken up to 3 years maximum where the 3 years can be split from ages 0 to 8.</div><div>For a max of 1 year the EE receives around 67% of his/her net up to Social Security contribution ceiling.</div><div>A male / female split is possible and can be extended by 2 months, if this option is chosen. For time spans exceeding these 12 months, EE does not receive remuneration, but can ask for part-time employment.</div>"
+        },
+        {
+            "label": "Holiday",
+            "content": "<div>There are currently 9 national public holidays, and 6 public holidays observed depending on the region.</div><div>Baden-Württemberg has an additional 3 holidays</div><div>Bavaria has an additional 4 holidays</div><div>Saxony-Anhalt has an additional 2 holidays</div><div>Hesse has 1 additional holiday&nbsp;</div><div>North Rhine-Westphalia has an additional 2 holidays</div><div>Rhineland-Palatinate has an additional 2 holidays</div><div>Saarland has an additional 3 holidays</div><div>Mecklenburg-Pomerania has 1 additional holiday</div><div>Thuringia has 1 additional holiday</div><div>Brandenburg has 1 additional holiday</div><div>Saxony has an additional 2 holidays</div>"
+        },
+        {
+            "label": "Vacation",
+            "content": "<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"><span style=\"line-height: normal;\">Per the Collective Bargaining Agreement (CBA) for Temporary Workers in the 1st year of employment there will be 25 days of vacation and in the 2nd and 3rd year 27 days and from 3rd year; 30 days. Employees’ </span>rights<span style=\"line-height: normal;\"> to holiday are governed by the\nFederal Holiday with Pay Act (Bundesurlaubsgesetz). Employees who work six days\nper week are entitled to an annual minimum paid vacation of 24 working days.\nEmployees with a five-day working week are entitled to a pro-rata vacation of\n20 working days. Most companies provide a higher vacation entitlement, which\nnormally varies between 25 and 30 days per year. Employees can claim their full\nvacation entitlement if the employment relationship has existed for a minimum\nof six months during the applicable vacation year. If there is a shorter\nemployment term during the vacation year, the proportionate vacation\nentitlement is 1/12 for each full month of employment.<o:p></o:p></span></p>"
+        },
+        {
+            "label": "13th month bonus",
+            "content": "13th month bonus maybe offered to both interim contract employees as well as a permanent staff member."
+        }
+    ],
+    "workerTypes": [
+        {
+            "key": "agency-worker",
+            "label": "Agency Worker | Fixed Term Contractor",
+            "description": "<p class=\"MsoNormal\" style=\"margin-bottom:0in;margin-bottom:.0001pt;text-align:\njustify\">Agency workers are employed full time by an agency, and dispatched on\nassignments. The employee works during this period under the supervision and in\nline with the instructions of the user enterprise. If the dispatching of\nemployees is on a long term basis (longer than 12 months) it is considered\ncommercial dispatching. Commercial dispatching is permitted only under the\nstrict preconditions of the Act on the Commercial Transfer of Employees. The\ntemporary work agency (TWA) needs permission by the Federal Institute of\nEmployment to provide commercial dispatching. The dispatched worker must be\nemployed on a permanent basis, except for under particular circumstances when a\nnon-renewable fixed-term contract is justified. Dispatched employees are\nentitled to maternity protection, parental leave, and continued payment of\nremuneration in case of sickness, 25 to 30 days of holiday (including Saturdays),\nsocial insurance and statutory redundancy provisions.</p><p class=\"MsoNormal\" style=\"margin-bottom:0in;margin-bottom:.0001pt;text-align:\njustify\"><br></p><p class=\"MsoNormal\" style=\"margin-bottom:0in;margin-bottom:.0001pt;text-align:\njustify\"><span style=\"text-align: left;\">The duration of fixed-term contracts must be set according to objective conditions such as a specific end date, the completion of a specific task, or the occurrence of a specific event. Fixed-term contracts can either be based on a time-limit (Zeitbefristung) or they are fixed due to operational cause (Sachbefristung). Fixed Term Contracts without operational cause cannot be longer than 24 months. Any shorter employment can be extended twice and up to 24 months in total. Requirement for such limited employment includes that the EE has not been employed by the company before. Fixed Term Contracts with operational cause can be indefinite in principle (as long as operational causes can be defined). To be valid, a fixed-term agreement must be in writing. A contract can be extended past 24 months, only if the situation meets one of the statutory justifications. Without a justification, or where there is no written document verifying the fixed-term employment, the employment relationship will be deemed by law to be indefinite. Contracts can be directly concluded and the contract is usually an hourly or monthly arrangements.&nbsp;</span><br></p>"
+        },
+        {
+            "key": "fixed-term-contractor",
+            "label": "Freelance Contractor | Self Employed (Freiberufler)",
+            "description": "<p class=\"MsoNormal\"><o:p></o:p></p>Under the\nFreiberufler (Freelance/Self-Employed) Model the individuals are registered as\nself-employed with the German authorities for wage tax and VAT.<span style=\"font-size: 10pt;\">&nbsp; </span>They are engaged via a contract for services\nand are paid their rate gross usually against an invoice.&nbsp;The duration of fixed-term contracts must be set according to objective conditions such as a specific end date, the completion of a specific task, or the occurrence of a specific event. Contracts can be directly concluded and the contract is usually an hourly or monthly arrangements + VAT.&nbsp; Risk: if the independent contractor cannot prove that he/she has more than one customer, the company can run into the risk that it the contract is deemed as a formal employment relationship with the person."
+        }
+    ],
+    "groups": [
+        {
+            "label": "Social Security",
+            "description": "",
+            "fields": [
+                {
+                    "key": "social-security-health-insurance",
+                    "workerTypes": [
+                        "agency-worker"
+                    ],
+                    "rateType": "nonSalary",
+                    "states": [],
+                    "label": "Health Insurance",
+                    "description": "(Gesetzliche Krankenversicherung) Employed persons making more than €4,950.00 monthly have the option of either remaining in the statutory health insurance plan or taking out private insurance. If an employee moves to private insurance, the employer will typically continue to pay half of the premium.",
+                    "fieldType": "percentage",
+                    "value": 7.3,
+                    "fieldTypeConfig": {}
+                },
+                {
+                    "key": "social-security-long-range-nursing-insurance",
+                    "workerTypes": [
+                        "agency-worker"
+                    ],
+                    "rateType": "nonSalary",
+                    "states": [],
+                    "label": "Long-range Nursing Insurance",
+                    "description": "(Pflegeversicherung): Covers health costs resulting from old age or disability.",
+                    "fieldType": "percentage",
+                    "value": 1.525,
+                    "fieldTypeConfig": {}
+                },
+                {
+                    "key": "social-security-pension-insurance",
+                    "workerTypes": [
+                        "agency-worker"
+                    ],
+                    "rateType": "nonSalary",
+                    "states": [],
+                    "label": "Pension Insurance",
+                    "description": "Payments are generally made to citizens age 65 and up (regular pension age fixed to 67; sliding phasing-in for birth dates before 1964). The maximum payout depends on service years and pension factor informed by individual contribution levels (Rentenpunkte). 9.65% of monthly payroll (up to Soc Sec Ceiling for pensions).<br>Effective January 1, 2019, employers in Germany will have to\npay an obligatory 15% supplement to employees’ pension scheme contributions\n(pre-tax) made via salary sacrifice arrangement. This supplementary payment is\nonly imposed if the employer will save money from the reduced costs of their\nstatutory social security contributions.<p class=\"MsoNormal\"><o:p></o:p></p>",
+                    "fieldType": "percentage",
+                    "value": 9.65,
+                    "fieldTypeConfig": {}
+                },
+                {
+                    "key": "social-security-unemployment-insurance",
+                    "workerTypes": [
+                        "agency-worker"
+                    ],
+                    "rateType": "nonSalary",
+                    "states": [],
+                    "label": "Unemployment Insurance",
+                    "description": "1.5% of gross income (up to Soc Sec Ceiling for unemployment).Received by persons who have paid their premiums for at least one year during the past five years.To qualify for Unemployment citizens must -Register with the Labor Office (Bundesagentur für Arbeit) and be available to its placement service, agreeing to accept a job found for them if it is consistent with their training and experience.- Check in regularly with Labor Office- If all requirements are met the employee will receive a percentage of their most recent net income. The exact payment depends on the individual's circumstances.",
+                    "fieldType": "percentage",
+                    "value": 1.5,
+                    "fieldTypeConfig": {}
+                },
+                {
+                    "key": "social-security-accident-insurance",
+                    "workerTypes": [
+                        "agency-worker"
+                    ],
+                    "rateType": "nonSalary",
+                    "states": [],
+                    "label": "Accident Insurance",
+                    "description": "Variable contributions: dependent on institutional fixings.The statutory accident insurance system offers protection and assistance in the event of mishaps at work, or on the way to and from work. It also covers any job-incurred illnesses.Payments cover the costs of treatment and recuperation, pensions in the event of invalidity and funeral costs in the event of death.The employer pays the premiums in their entirety. Accident insurance is considered as a part of social security.It is organized via occupation co-operatives (Berufsgenossenschaften).Contributions are based on costs of these institutions in the previous year (apportionment procedure).Contributions for single enterprises are based on the following factors: hazard class (defined by institution; can vary for EE groups within one enterprise), salary/wage costs (up to a ceiling of app. 78 K€; can vary by institution), cost share factor (Umlageziffer; defined by institution; can vary). Normally advance payments of EER are required quarterly for bigger enterprises. Average rates are between 1.22 and 1.31%. Default to 1.27%.",
+                    "fieldType": "percentage",
+                    "value": 1.27,
+                    "fieldTypeConfig": {}
+                }
+            ]
+        },
+        {
+            "label": "Estimates",
+            "description": "",
+            "fields": [
+                {
+                    "key": "supplier-margin-estimate",
+                    "workerTypes": [
+                        "agency-worker",
+                        "fixed-term-contractor"
+                    ],
+                    "rateType": "nonSalary",
+                    "states": [],
+                    "label": "Supplier Margin Estimate",
+                    "description": "The Suppliers Margin includes Overhead, G&amp;A and Profit.  Factors that will impact the margin include: Length of Assignment (supplier has less time to recoup their recruiting costs); Percent of Business: A supplier may lower their markup in exchange for being a primary vendor or having an increased volume of your company's spend. Payment Terms: suppliers that are paid quickly do not have to compensate for the cost of funds. Usually the range will fall between 22-35% with many suppliers charging 28-35%. Default to 28%.",
+                    "fieldType": "percentage",
+                    "value": 28,
+                    "fieldTypeConfig": {}
+                },
+                {
+                    "key": "miscellaneous",
+                    "workerTypes": [
+                        "agency-worker",
+                        "fixed-term-contractor"
+                    ],
+                    "rateType": "nonSalary",
+                    "states": [],
+                    "label": "Miscellaneous",
+                    "description": "",
+                    "fieldType": "percentage",
+                    "value": 0,
+                    "fieldTypeConfig": {}
+                }
+            ]
+        },
+        {
+            "label": "Benefits",
+            "description": "15% is the default; which includes Holidays and Vacation. Applied .5 to 30 days for the default. See additional information in the overview to the right.",
+            "fields": [
+                {
+                    "key": "vacation",
+                    "workerTypes": [
+                        "agency-worker"
+                    ],
+                    "rateType": "nonSalary",
+                    "states": [],
+                    "label": "Vacation",
+                    "description": "",
+                    "fieldType": "percentage",
+                    "value": 15,
+                    "fieldTypeConfig": {}
+                },
+                {
+                    "key": "christmas-bonus-13th-month",
+                    "workerTypes": [
+                        "agency-worker"
+                    ],
+                    "rateType": "nonSalary",
+                    "states": [],
+                    "label": "Christmas Bonus (13th month)",
+                    "description": "&nbsp;Mostly, it is equivalent to one full monthly salary and paid in December (the 12th month) around Christmas and is traditionally called a Christmas bonus.",
+                    "fieldType": "percentage",
+                    "value": 8.33,
+                    "fieldTypeConfig": {}
+                }
+            ]
+        },
+        {
+            "label": "Taxes",
+            "description": "",
+            "fields": [
+                {
+                    "key": "vat",
+                    "workerTypes": [
+                        "agency-worker",
+                        "fixed-term-contractor"
+                    ],
+                    "rateType": "nonSalary",
+                    "states": [],
+                    "label": "VAT",
+                    "description": "",
+                    "fieldType": "percentageTax",
+                    "value": 19,
+                    "fieldTypeConfig": {}
+                }
+            ]
+        }
+    ],
+    "conversionOptions": {
+        "hoursInDay": 8,
+        "hoursInWeek": 40,
+        "hoursInMonth": 160
+    },
+    "location": 83,
+    "isPublished": true
+}
